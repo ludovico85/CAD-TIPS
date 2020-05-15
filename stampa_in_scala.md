@@ -1,4 +1,4 @@
-Se l'unità di disegno è metri, la stampa va impostata nel seguendo modo
+Se l'unità di disegno è metri, la stampa va impostata nel seguente modo
 1000 mm = 1 m
 Per stampare in scala 1:500
 1000 mm = 500 m
